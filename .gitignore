@@ -28,7 +28,6 @@ Thumbs.db
 
 # Large datasets
 data/raw/
-data/*.csv
 data/*.zip
 
 # Logs
