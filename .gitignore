@@ -1,0 +1,39 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables / secrets
+.env
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.pt
+
+# Large datasets
+data/raw/
+data/*.csv
+data/*.zip
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
