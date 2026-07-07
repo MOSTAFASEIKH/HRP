@@ -26,6 +26,7 @@ The final model can be reused for future predictions and deployment.
 
 ---
 
+
 # 🎯 Problem Statement
 
 Rental prices depend on several factors such as:
