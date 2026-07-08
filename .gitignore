@@ -21,11 +21,14 @@ Thumbs.db
 .env
 
 # Model files
-*.pkl
-*.joblib
 *.h5
 *.pt
+# Ignore all model files except these
+*.pkl
+*.joblib
 
+!models/house_rent_pipeline.pkl
+!models/localities.pkl
 # Large datasets
 data/raw/
 data/*.zip
